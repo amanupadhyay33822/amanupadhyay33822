@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Aman Upadhyay</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjRirEy2hBCvQ6E-nKY5L9F6U5KtPvMVZsDQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanupadhyay33822&label=Profile%20views&color=0e75b6&style=flat" alt="amanupadhyay33822" /> </p>
 
